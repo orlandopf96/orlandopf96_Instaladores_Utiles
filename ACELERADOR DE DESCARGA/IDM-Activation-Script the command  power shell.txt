@@ -1,0 +1,8 @@
+the command : iex (irm is.gd/idm_reset)
+
+
+
+
+https://www.youtube.com/watch?v=dPh9wNVeK24
+
+https://github.com/lstprjct/IDM-Activation-Script
